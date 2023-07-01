@@ -17,4 +17,4 @@ https://youtu.be/rtpzuLPjo2k
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-You can learn more in this Youtube Channel [Skills Codified](https://www.youtube.com/@skillscodified).
+
